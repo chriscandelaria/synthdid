@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574812601535.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "735274475",
+    "id" : "704B6DED",
+    "lastKnownWriteTime" : 1574809082,
+    "last_content_update" : 1574809082,
+    "path" : "~/reslocal/synthdid/R/sdid_lib.R",
+    "project_path" : "R/sdid_lib.R",
+    "properties" : {
+        "cursorPosition" : "127,39",
+        "scrollLine" : "114"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

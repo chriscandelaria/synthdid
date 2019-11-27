@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574809425341.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "22743506",
+    "id" : "5C55D96B",
+    "lastKnownWriteTime" : 1574812085,
+    "last_content_update" : 1574812085084,
+    "path" : "~/reslocal/synthdid/experiments/confidence_intervals/sim_conf_intervals_v01.R",
+    "project_path" : "experiments/confidence_intervals/sim_conf_intervals_v01.R",
+    "properties" : {
+        "cursorPosition" : "60,0",
+        "scrollLine" : "43"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
