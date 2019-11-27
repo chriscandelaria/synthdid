@@ -14,4 +14,5 @@
 !IRB/*.pdf
 !old_files/*.pdf
 
-
+.Rhistory
+.Rproj.user
